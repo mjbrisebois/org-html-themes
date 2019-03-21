@@ -12,7 +12,8 @@ h1{
 }
 
 .subtitle{
-    font-size:95%; /* of h1 */
+  font-size:70%; /* of h1 */
+  font-weight:100;
 }
 
 h2{
